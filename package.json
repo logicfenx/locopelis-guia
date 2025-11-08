@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/locopelis-guia",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a locopelis-guia",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/locopelis-guia.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://www.stockbitcoin.info/es/locopelis/"
+    },
+    "homepage": "https://www.stockbitcoin.info/es/locopelis/"
+}
